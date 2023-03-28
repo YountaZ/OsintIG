@@ -20,6 +20,7 @@ This tool functions to search for and collect target account information
  git clone https://github.com/Hunxploit04/OsintIG.git
  cd OsintIG
  python3 osintIG.py
+ pip3 install -r requirements.txt
  ```
  
 
